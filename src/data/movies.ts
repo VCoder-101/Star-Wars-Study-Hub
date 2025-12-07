@@ -21,7 +21,7 @@ export const timeline: TimelineEntry[] = [
     years: "2024–...",
     seasons: 1,
     rating: "6.5/10",
-    image: "/src/assets/movies/acolyte.png",
+    image: "/movies/acolyte.png",
     description:
       "Сериал, действие которого разворачивается в эпоху расцвета Высокой Республики. История ученицы, возвращающейся к своему бывшему мастеру-джедаю, чтобы расследовать череду загадочных преступлений, связанных с Тёмной стороной."
   },
@@ -33,7 +33,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "1999",
     rating: "6.5/10",
-    image: "/src/assets/movies/episode1.png",
+    image: "/movies/episode1.png",
     description:
       "Начало саги о Скайуокерах. Джедаи Квай-Гон Джинн и Оби-Ван Кеноби оказываются втянуты в конфликт вокруг блокады планеты Набу и встречают юного Энакина Скайуокера, в котором велика сила."
   },
@@ -45,7 +45,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "2002",
     rating: "7.0/10",
-    image: "/src/assets/movies/episode2.png",
+    image: "/movies/episode2.png",
     description:
       "Галактика балансирует на грани войны. Энакин Скайуокер становится падаваном Оби-Вана, между ним и падме Амидалой зарождается чувство, а Конфедерация независимых систем готовится к конфликту, который позже назовут Войнами клонов."
   },
@@ -58,7 +58,7 @@ export const timeline: TimelineEntry[] = [
     years: "2008–2014",
     seasons: 7,
     rating: "8.4/10",
-    image: "/src/assets/movies/clonewars.png",
+    image: "/movies/clonewars.png",
     description:
       "Анимационный сериал, подробно раскрывающий период Войн клонов: кампании на разных планетах, развитие Энакина и его ученицы Асоки Тано, политические интриги Палпатина и постепенное падение Республики."
   },
@@ -71,7 +71,7 @@ export const timeline: TimelineEntry[] = [
     years: "2005",
     seasons: 3,
     rating: "7.6/10",
-    image: "/src/assets/movies/episode3.png",
+    image: "/movies/episode3.png",
     description:
       "Кульминация падения Энакина Скайуокера и превращения его в Дарта Вейдера. Республика окончательно рушится, на её месте рождается Галактическая Империя. Джедаи уничтожены, а Император Палпатин укрепляет свою власть."
   },
@@ -84,7 +84,7 @@ export const timeline: TimelineEntry[] = [
     years: "2021–...",
     seasons: 3,
     rating: "7.6/10",
-    image: "/src/assets/movies/badbatch.png",
+    image: "/movies/badbatch.png",
     description:
       "Сериал «Бракованная партия» показывает первые годы Империи глазами отряда элитных клонов с уникальными мутациями. Они выполняют опасные миссии и пытаются найти своё место в новом порядке."
   },
@@ -96,7 +96,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "2018",
     rating: "6.9/10",
-    image: "/src/assets/movies/solo.png",
+    image: "/movies/solo.png",
     description:
       "Отдельная история о молодом Хане Соло: его первых приключениях, встрече с Чубаккой, приобретении «Тысячелетнего сокола» и первых шагах в мире контрабандистов и преступных синдикатов."
   },
@@ -109,7 +109,7 @@ export const timeline: TimelineEntry[] = [
     years: "2022",
     seasons: 1,
     rating: "7.0/10",
-    image: "/src/assets/movies/kenobi.png",
+    image: "/movies/kenobi.png",
     description:
       "Сериал о жизни Оби-Вана Кеноби спустя годы после падения Республики и Приказа 66. Он скрывается на Татуине, наблюдая за юным Люком, но события вынуждают его вновь взяться за световой меч. "
   },
@@ -122,7 +122,7 @@ export const timeline: TimelineEntry[] = [
     years: "2014–2018",
     seasons: 4,
     rating: "8.0/10",
-    image: "/src/assets/movies/rebels.png",
+    image: "/movies/rebels.png",
     description:
       "История команды корабля «Призрак», которая становится одним из первых организованных сопротивлений Империи."
   },
@@ -136,7 +136,7 @@ export const timeline: TimelineEntry[] = [
     years: "2022–...",
     seasons: 2,
     rating: "8.4/10",
-    image: "/src/assets/movies/andor.png",
+    image: "/movies/andor.png",
     description:
       "Сериал о становлении Кассиана Андора и первых подпольных движений против Империи. Один из самых глубоких и реалистичных проектов во вселенной."
   },
@@ -149,7 +149,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "2016",
     rating: "7.8/10",
-    image: "/src/assets/movies/rogueone.png",
+    image: "/movies/rogueone.png",
     description:
       "Команда повстанцев отправляется на миссию по краже планов Звезды Смерти. Прямой приквел к «Новой надежде»."
   },
@@ -162,7 +162,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "1977",
     rating: "8.6/10",
-    image: "/src/assets/movies/episode4.png",
+    image: "/movies/episode4.png",
     description:
       "Люк Скайуокер вступает в ряды Повстанцев и участвует в операции по уничтожению Звезды Смерти."
   },
@@ -177,7 +177,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "1980",
     rating: "8.7/10",
-    image: "/src/assets/movies/episode5.png",
+    image: "/movies/episode5.png",
     description:
       "Империя усиливает давление на Повстанцев. Люк обучается у Йоды, а Хан и Лея пытаются уйти от преследования."
   },
@@ -190,7 +190,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "1983",
     rating: "8.3/10",
-    image: "/src/assets/movies/episode6.png",
+    image: "/movies/episode6.png",
     description:
       "Финал оригинальной трилогии. Повстанцы атакуют вторую Звезду Смерти, а Люк сталкивается с Вейдером и Императором."
   },
@@ -204,7 +204,7 @@ export const timeline: TimelineEntry[] = [
     years: "2019–...",
     seasons: 3,
     rating: "8.6/10",
-    image: "/src/assets/movies/mandalorian.png",
+    image: "/movies/mandalorian.png",
     description:
       "Сериал о наёмнике Дине Джарине и его пути вместе с Грогу. Раскрывает мир Мандалора и эпоху после Империи."
   },
@@ -218,7 +218,7 @@ export const timeline: TimelineEntry[] = [
     years: "2021",
     seasons: 1,
     rating: "7.3/10",
-    image: "/src/assets/movies/bookofboba.png",
+    image: "/movies/bookofboba.png",
     description:
       "История возвращения Бобы Фетта, стремящегося занять место Джаббы Хатта и установить новые правила на Татуине."
   },
@@ -232,7 +232,7 @@ export const timeline: TimelineEntry[] = [
     years: "2023",
     seasons: 1,
     rating: "7.8/10",
-    image: "/src/assets/movies/ahsoka.png",
+    image: "/movies/ahsoka.png",
     description:
       "Асока Тано отправляется на поиски Эзры Бриджера и пытается предотвратить возвращение адмирала Трауна."
   },
@@ -246,7 +246,7 @@ export const timeline: TimelineEntry[] = [
     years: "2024",
     seasons: 1,
     rating: "7.2/10",
-    image: "/src/assets/movies/skeletoncrew.png",
+    image: "/movies/skeletoncrew.png",
     description:
       "Группа детей попадает в опасное приключение в далёкой Галактике. События происходят в эпоху после Империи."
   },
@@ -260,7 +260,7 @@ export const timeline: TimelineEntry[] = [
     years: "2018–2020",
     seasons: 2,
     rating: "5.6/10",
-    image: "/src/assets/movies/rebels.png",
+    image: "/movies/rebels.png",
     description:
       "Сериал, показывающий ранние дни борьбы Сопротивления против Первого Ордена. Сюжет пересекается с событиями сиквел-трилогии."
   },
@@ -273,7 +273,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "2015",
     rating: "7.8/10",
-    image: "/src/assets/movies/episode7.png",
+    image: "/movies/episode7.png",
     description:
       "Рей и Финн становятся частью новой борьбы с Первым Орденом. Люк Скайуокер исчез, и Галактика ищет надежду."
   },
@@ -286,7 +286,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "2017",
     rating: "6.9/10",
-    image: "/src/assets/movies/episode8.png",
+    image: "/movies/episode8.png",
     description:
       "Рей пытается убедить Люка вернуться в бой. Первый Орден наносит удар по Сопротивлению, и надежда почти угасает."
   },
@@ -299,7 +299,7 @@ export const timeline: TimelineEntry[] = [
     type: "фильм",
     years: "2019",
     rating: "6.5/10",
-    image: "/src/assets/movies/episode9.png",
+    image: "/movies/episode9.png",
     description:
       "Заключение саги о Скайуокерах. Рей сталкивается с древней угрозой, а Галактика готовится к последнему сражению."
   }

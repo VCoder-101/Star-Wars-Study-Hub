@@ -102,7 +102,7 @@ export default function Universe() {
         >
           <img
             id="galaxy-img"
-            src="/src/assets/universe/map.jpeg"
+            src="/universe/map.jpeg"
             alt="Galaxy Map"
             className="map-image"
             style={{
