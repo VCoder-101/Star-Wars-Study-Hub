@@ -34,9 +34,9 @@
 }
 
 .char-card h3 {
-  min-height: 28px;      /* Имя — одинаковое место */
+  min-height: 28px;     
 }
 
 .desc {
-  margin-top: auto;      /* Описание всегда уходит вниз */
+  margin-top: auto;      
 }
