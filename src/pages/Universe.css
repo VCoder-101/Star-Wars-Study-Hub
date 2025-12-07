@@ -1,0 +1,41 @@
+.universe-page {
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.universe-page h1 {
+  font-size: 38px;
+  margin-bottom: 15px;
+  text-shadow: 0 0 10px #4dafff;
+}
+
+/* Карта занимает почти весь экран по ширине */
+.map-wrapper {
+  width: 98%;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  border-radius: 12px;
+  border: 1px solid rgba(80, 160, 255, 0.3);
+  cursor: grab;
+}
+
+.map-wrapper:active {
+  cursor: grabbing;
+}
+
+/* Картинка тянется по ширине, высота автоматическая */
+.map-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  transform-origin: top left;
+  user-select: none;
+  pointer-events: none;
+}
+
+.zoom-tip {
+  opacity: 0.75;
+  margin-top: 12px;
+}

@@ -1,0 +1,29 @@
+.starfield {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -2;
+  pointer-events: none;
+  overflow: hidden;
+  background: black;
+}
+
+/* Каждая звезда */
+.star {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: white;
+  border-radius: 50%;
+  opacity: 0.2;
+  animation: flicker 3s infinite ease-in-out;
+}
+
+/* Мерцание — плавное увеличение яркости */
+@keyframes flicker {
+  0%   { opacity: 0.15; transform: scale(1); }
+  50%  { opacity: 0.9;  transform: scale(1.6); }
+  100% { opacity: 0.15; transform: scale(1); }
+}

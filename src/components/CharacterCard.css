@@ -1,0 +1,42 @@
+.char-card {
+  background: rgba(0, 20, 50, 0.6);
+  border: 1px solid rgba(80, 160, 255, 0.2);
+  border-radius: 12px;
+  padding: 16px;
+  color: white;
+  width: 250px;
+  min-height: 380px;    /* фиксируем высоту */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  transition: 0.3s;
+  backdrop-filter: blur(6px);
+}
+
+
+.char-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 0 25px rgba(80, 160, 255, 0.5);
+}
+
+.char-card img {
+  width: 100%;
+  height: 180px;          /* Фиксированная высота */
+  object-fit: cover;      /* Обрезает красиво */
+  object-position: top;   /* Центрирует важную часть */
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.role {
+  color: #4dafff;
+  font-weight: bold;
+}
+
+.char-card h3 {
+  min-height: 28px;      /* Имя — одинаковое место */
+}
+
+.desc {
+  margin-top: auto;      /* Описание всегда уходит вниз */
+}
