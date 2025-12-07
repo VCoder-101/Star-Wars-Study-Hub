@@ -7,13 +7,15 @@ export default function Home() {
       {/* ВИДЕО-БАННЕР */}
       <div className="video-banner">
         <video autoPlay muted loop playsInline>
-          <source src="/src/assets/video/banner.mp4" type="video/mp4" />
+          <source src="/video/banner.mp4" type="video/mp4" />
         </video>
+
         <div className="video-overlay">
           <h1 className="title">STAR WARS STUDY HUB</h1>
           <p className="subtitle">Галактика знаний ждёт тебя</p>
         </div>
       </div>
+
 
       {/* ОПИСАНИЕ */}
       <section className="description">
