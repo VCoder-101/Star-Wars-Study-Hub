@@ -1,0 +1,4 @@
+Локально: npm run dev
+Netlify (manual deploy): npm run build:netlify
+GitHub Pages: npm run build:github
+
